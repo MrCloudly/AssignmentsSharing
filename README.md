@@ -31,6 +31,12 @@ Uruchomienie serwera Django możliwe jest przy użyciu polecenia:
 python manage.py runserver 0.0.0.0:8000
 ```
 
+Panel admina dostępny pod: http://127.0.0.1:8000/admin
+
+Domyślny superuser:
+* Login: `root`
+* Hasło: `1qazXSW@`
+
 ## Lista komend:
 Przykładowe komendy wchodzące w skład rozwiązania Django:
 * https://www.educative.io/answers/what-are-django-commands
