@@ -1,0 +1,4 @@
+venv/
+
+#optional
+#db.sqlite3
