@@ -34,4 +34,5 @@ python manage.py runserver 0.0.0.0:8000
 ## Lista komend:
 Przykładowe komendy wchodzące w skład rozwiązania Django:
 https://www.educative.io/answers/what-are-django-commands
+
 https://docs.djangoproject.com/en/4.2/ref/django-admin/
